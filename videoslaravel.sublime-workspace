@@ -1,0 +1,845 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bs3-col",
+				"bs3-col:10\tbs3-col-10"
+			],
+			[
+				"bs3-co",
+				"bs3-col:2\tbs3-col-2"
+			],
+			[
+				"bs3-al",
+				"bs3-alert:warning\tbs3-alert-warning"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"sr",
+				"strong\tTag"
+			],
+			[
+				"bs3-ale",
+				"bs3-alert:success\tbs3-alert-success"
+			],
+			[
+				"bs3-aler",
+				"bs3-alert:danger\tbs3-alert-danger"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"th",
+				"$this〔variable〕"
+			],
+			[
+				"user",
+				"user_id"
+			],
+			[
+				"var",
+				"var_dump〔function〕"
+			],
+			[
+				"bs3-in",
+				"bs3-input:submit\tbs3-input-submit"
+			],
+			[
+				"bs3-subm",
+				"bs3-input:submit\tbs3-input-submit"
+			],
+			[
+				"is_n",
+				"is_null〔function〕"
+			],
+			[
+				"li",
+				"li\tTag"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"p",
+				"p\tTag"
+			],
+			[
+				"array",
+				"array〔keyword〕"
+			],
+			[
+				"h",
+				"h2\tTag"
+			],
+			[
+				"mar",
+				"margin-top\tproperty"
+			],
+			[
+				"pa",
+				"padding-left\tproperty"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"pr",
+				"pre"
+			],
+			[
+				"get",
+				"getallheaders"
+			],
+			[
+				"base",
+				"base_path〔function〕"
+			],
+			[
+				"obtener",
+				"obtenerUnCurso"
+			],
+			[
+				"agregar",
+				"aggregate_methods_by_regexp"
+			],
+			[
+				"val",
+				"value=〔attribute〕"
+			],
+			[
+				"opt",
+				"option\tTag"
+			],
+			[
+				"req",
+				"$request〔variable〕"
+			],
+			[
+				"pro",
+				"profesor"
+			],
+			[
+				"bs3-input",
+				"bs3-input:hidden\tbs3-input-hidden"
+			],
+			[
+				"for",
+				"foreach\t<?php foreach (…) … <?php endforeach ?>"
+			],
+			[
+				"acc",
+				"$accessToken〔variable〕"
+			],
+			[
+				"access",
+				"accessToken"
+			],
+			[
+				"el",
+				"element\tTag"
+			],
+			[
+				"bs3-list",
+				"bs3-list-group\tbs3-list-group"
+			],
+			[
+				"bs3-l",
+				"bs3-list-group\tbs3-list-group"
+			],
+			[
+				"bs3-c",
+				"bs3-cdn\tbs3-cdn"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/Http/Controllers/UserController.php",
+			"settings":
+			{
+				"buffer_size": 603,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/video/videosList.blade.php",
+			"settings":
+			{
+				"buffer_size": 4054,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/video/detail.blade.php",
+			"settings":
+			{
+				"buffer_size": 872,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/user/channel.blade.php",
+			"settings":
+			{
+				"buffer_size": 302,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "routes/web.php",
+			"settings":
+			{
+				"buffer_size": 2154,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				"Syntax Check"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"html",
+				"Snippet: html"
+			],
+			[
+				"low",
+				"Convert Case: Lower Case"
+			],
+			[
+				"LOW",
+				"Convert Case: Lower Case"
+			],
+			[
+				"UP",
+				"Convert Case: Upper Case"
+			],
+			[
+				"upca",
+				"Convert Case: Upper Case"
+			],
+			[
+				"up",
+				"Convert Case: Upper Case"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"intall",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"lo",
+				"Convert Case: Lower Case"
+			],
+			[
+				"mini",
+				"Minify::Minify File"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"CONVERT",
+				"Convert Case: Upper Case"
+			],
+			[
+				"LOWE",
+				"Convert Case: Lower Case"
+			],
+			[
+				"UPC",
+				"Convert Case: Upper Case"
+			],
+			[
+				"packa",
+				"Install Package Control"
+			]
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/ferranespel/Sites/curso-laravel/videos-laravel",
+		"/Users/ferranespel/Sites/curso-laravel/videos-laravel/app",
+		"/Users/ferranespel/Sites/curso-laravel/videos-laravel/app/Http",
+		"/Users/ferranespel/Sites/curso-laravel/videos-laravel/app/Http/Controllers",
+		"/Users/ferranespel/Sites/curso-laravel/videos-laravel/app/Providers",
+		"/Users/ferranespel/Sites/curso-laravel/videos-laravel/config",
+		"/Users/ferranespel/Sites/curso-laravel/videos-laravel/resources",
+		"/Users/ferranespel/Sites/curso-laravel/videos-laravel/resources/views",
+		"/Users/ferranespel/Sites/curso-laravel/videos-laravel/resources/views/layouts",
+		"/Users/ferranespel/Sites/curso-laravel/videos-laravel/resources/views/video",
+		"/Users/ferranespel/Sites/curso-laravel/videos-laravel/routes"
+	],
+	"file_history":
+	[
+		"/Users/ferranespel/Sites/curso-laravel/videos-laravel/resources/views/video/search.blade.php",
+		"/Users/ferranespel/Sites/curso-laravel/videos-laravel/app/Http/Controllers/VideoController.php",
+		"/Users/ferranespel/Sites/curso-laravel/videos-laravel/resources/views/video/detail.blade.php",
+		"/Users/ferranespel/Sites/curso-laravel/videos-laravel/resources/views/home.blade.php",
+		"/Users/ferranespel/Sites/curso-laravel/videos-laravel/resources/views/video/videosList.blade.php",
+		"/Users/ferranespel/Sites/curso-laravel/videos-laravel/resources/views/layouts/app.blade.php",
+		"/Users/ferranespel/Sites/curso-laravel/videos-laravel/app/Http/Controllers/HomeController.php",
+		"/Users/ferranespel/Sites/curso-laravel/videos-laravel/routes/web.php",
+		"/Users/ferranespel/Sites/curso-laravel/videos-laravel/config/filesystems.php",
+		"/Users/ferranespel/Sites/curso-laravel/videos-laravel/resources/views/video/edit.blade.php",
+		"/Users/ferranespel/Sites/curso-laravel/videos-laravel/resources/views/video/createVideo.blade.php",
+		"/Users/ferranespel/Sites/curso-laravel/videos-laravel/resources/views/video/comments.blade.php",
+		"/Users/ferranespel/Sites/curso-laravel/videos-laravel/app/Video.php",
+		"/Users/ferranespel/Sites/curso-laravel/videos-laravel/app/Http/Controllers/CommentController.php",
+		"/Users/ferranespel/Sites/curso-laravel/videos-laravel/app/Comment.php",
+		"/Users/ferranespel/Sites/curso-laravel/videos-laravel/public/css/style.css",
+		"/Users/ferranespel/Sites/curso-laravel/videos-laravel/public/css/app.css",
+		"/Users/ferranespel/Sites/curso-laravel/videos-laravel/app/User.php",
+		"/Users/ferranespel/Sites/curso-laravel/videos-laravel/config/app.php",
+		"/Users/ferranespel/Sites/curso-laravel/videos-laravel/app/Providers/FormatTimeServiceProvider.php",
+		"/Users/ferranespel/Sites/curso-laravel/videos-laravel/app/Helpers/FormatTime.php",
+		"/Users/ferranespel/Sites/curso-laravel/videos-laravel/storage/app/images/gdpr-islands-ICEL.jpg",
+		"/Users/ferranespel/Sites/curso-laravel/videos-laravel/resources/views/welcome.blade.php",
+		"/Users/ferranespel/Sites/curso-laravel/videos-laravel/package.json",
+		"/Users/ferranespel/Sites/curso-laravel/videos-laravel/database.sql",
+		"/Users/ferranespel/Sites/curso-laravel/videos-laravel/.env",
+		"/Users/ferranespel/Sites/curso-laravel/videos-laravel/vendor/laravel/framework/src/Illuminate/Support/Collection.php",
+		"/Users/ferranespel/Sites/curso-laravel/probando1/resources/views/frutas/index.blade.php",
+		"/Users/ferranespel/Sites/curso-laravel/probando1/resources/views/notes/index.blade.php",
+		"/Users/ferranespel/Sites/curso-laravel/probando1/resources/views/contacto/cabecera.blade.php",
+		"/Users/ferranespel/Sites/curso-laravel/probando1/resources/views/contacto/contacto.blade.php",
+		"/Users/ferranespel/Sites/curso-laravel/probando1/resources/views/layouts/master.blade.php",
+		"/Users/ferranespel/Sites/curso-laravel/probando1/app/Http/Middleware/EsAdmin.php",
+		"/Users/ferranespel/Sites/curso-laravel/probando1/resources/views/hola-mundo.blade.php",
+		"/Users/ferranespel/Sites/curso-laravel/probando1/database/seeds/DatabaseSeeder.php",
+		"/Users/ferranespel/Sites/curso-laravel/probando1/database/seeds/RellenaNotas.php",
+		"/Users/ferranespel/Sites/curso-laravel/probando1/database/migrations/2018_07_11_175618_add_field_frutas.php",
+		"/Users/ferranespel/Sites/curso-laravel/probando1/database/migrations/2018_07_11_173759_create_frutas_table.php",
+		"/Users/ferranespel/Sites/curso-laravel/probando1/composer.json",
+		"/Users/ferranespel/Sites/curso-laravel/probando1/config/database.php",
+		"/Users/ferranespel/Sites/curso-laravel/probando1/.env",
+		"/Users/ferranespel/Sites/curso-laravel/probando1/app/Http/Kernel.php",
+		"/Users/ferranespel/Sites/curso-laravel/probando1/storage/framework/views/a4daa8f95fcfb404922fddd1cc270529c861e94f.php",
+		"/Users/ferranespel/Sites/curso-laravel/probando1/app/Http/Middleware/VerifyCsrfToken.php",
+		"/Users/ferranespel/Dropbox/WEB AUDIT/8.IS/ADWORDS/Ads Text.txt",
+		"/Users/ferranespel/Sites/heimkaup/resources/views/products/show.blade.php",
+		"/Users/ferranespel/Sites/heimkaup/app/Http/Controllers/ProductsController.php",
+		"/Users/ferranespel/Sites/heimkaup/app/Http/routes.php",
+		"/Users/ferranespel/Sites/demo-marko/app_dev.php",
+		"/Users/ferranespel/Sites/demo-marko/app.php",
+		"/Users/ferranespel/Sites/app/AppKernel.php",
+		"/Users/ferranespel/Sites/app/config/config.yml",
+		"/Users/ferranespel/Sites/app/config/config_dev.yml",
+		"/Users/ferranespel/Sites/app/config/config_prod.yml",
+		"/Users/ferranespel/Sites/app/config/config_test.yml",
+		"/Users/ferranespel/Sites/composer.json",
+		"/Users/ferranespel/Sites/app/Resources/views/base.html.twig",
+		"/Users/ferranespel/Sites/app/config/routing.yml",
+		"/Users/ferranespel/Sites/app/config/routing_dev.yml",
+		"/Users/ferranespel/Sites/app/config/security.yml",
+		"/Users/ferranespel/Sites/app/config/parameters.yml",
+		"/Users/ferranespel/Documents/MARKO/CUBE.MARKOSEAFOODINTELLIGENCE.COM/backup-cube.markoseafoodintelligence.com-12-1-2017/public_html/composer.phar",
+		"/Users/ferranespel/Sites/app/AppCache.php",
+		"/Users/ferranespel/Sites/app/autoload.php",
+		"/Users/ferranespel/Sites/app/bootstrap.php.cache",
+		"/Users/ferranespel/Sites/app/check.php",
+		"/Users/ferranespel/Sites/app/console",
+		"/Users/ferranespel/Sites/app/phpunit.xml.dist",
+		"/Users/ferranespel/Sites/app/SymfonyRequirements.php",
+		"/Users/ferranespel/Sites/app/config/parameters.yml.dist",
+		"/Users/ferranespel/Sites/phpMyAdmin/config.inc.php",
+		"/Users/ferranespel/Sites/ferransson/.htaccess",
+		"/Users/ferranespel/Sites/phpMyAdmin/.htaccess",
+		"/Users/ferranespel/Sites/ferransson/index.php",
+		"/Users/ferranespel/Sites/curso-laravel/probando1/public/.htaccess",
+		"/Users/ferranespel/Documents/MARKO/DATA.MARKOSEAFOODINTELLIGENCE.COM/backup-data.markoseafoodintelligence.com-12-2-2017/public_html/config.php",
+		"/Users/ferranespel/Documents/ENDOR.KINGBCN.COM/endor/homedir/public_html/config.php",
+		"/Users/ferranespel/Sites/.htaccess",
+		"/Users/ferranespel/Sites/heimkaup/public/.htaccess",
+		"/Users/ferranespel/Sites/ClienteHTTP/public/.htaccess",
+		"/Users/ferranespel/Sites/heimkaup/app/Http/Controllers/FaqsController.php",
+		"/Users/ferranespel/Sites/heimkaup/public/css/custom.css",
+		"/Users/ferranespel/Sites/heimkaup/.env",
+		"/Users/ferranespel/Desktop/BOOSTRAP TEMPLATE/Box_Product_List.html",
+		"/Users/ferranespel/Sites/heimkaup/public/css/header.css",
+		"/Users/ferranespel/Sites/heimkaup/resources/views/products/search.blade.php",
+		"/Users/ferranespel/Sites/heimkaup/public/css/product_list.css",
+		"/Users/ferranespel/Sites/heimkaup/resources/views/principal.blade.php",
+		"/Users/ferranespel/Sites/heimkaup/public/css/heimkaup.css",
+		"/Users/ferranespel/Sites/heimkaup/public/css/header.php",
+		"/Users/ferranespel/Sites/heimkaup/resources/views/articles/all.blade.php",
+		"/Users/ferranespel/Sites/heimkaup/app/Http/Controllers/ArticlesController.php",
+		"/Users/ferranespel/Sites/heimkaup/public/assets/css/custom.css",
+		"/Users/ferranespel/Sites/heimkaup/storage/logs/laravel.log",
+		"/Users/ferranespel/Sites/heimkaup/app/Http/Controllers/Controller.php",
+		"/Users/ferranespel/Sites/heimkaup/app/Http/Requests/Request.php",
+		"/Users/ferranespel/Sites/heimkaup/resources/views/faqs/all.blade.php",
+		"/Users/ferranespel/Sites/heimkaup/resources/views/estudiantes/todos.blade.php",
+		"/Users/ferranespel/Sites/heimkaup/app/Http/Request.php",
+		"/Users/ferranespel/Sites/heimkaup/app/Http/Controllers/EstudiantesController.php",
+		"/Users/ferranespel/Sites/heimkaup/resources/views/layouts/master.blade.php",
+		"/Users/ferranespel/Sites/heimkaup/resources/certs/cacert.pem",
+		"/Users/ferranespel/Sites/heimkaup/app/Http/Kernel.php",
+		"/Users/ferranespel/Sites/heimkaup/database/factories/ModelFactory.php",
+		"/Users/ferranespel/Sites/heimkaup/composer.json",
+		"/Users/ferranespel/Sites/heimkaup/package.json",
+		"/Users/ferranespel/Sites/ClienteHTTP/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php",
+		"/Users/ferranespel/Sites/ClienteHTTP/resources/views/profesor-cursos/todos.blade.php",
+		"/Users/ferranespel/Sites/ClienteHTTP/resources/views/profesor-cursos/editar.blade.php",
+		"/Users/ferranespel/Sites/ClienteHTTP/resources/views/profesor-cursos/selecionar.blade.php",
+		"/Users/ferranespel/Sites/ClienteHTTP/app/Http/Controllers/ProfesorCursosController.php",
+		"/Users/ferranespel/Sites/ClienteHTTP/resources/views/curso-estudiantes/seleccionar-estudiante.blade.php",
+		"/Users/ferranespel/Sites/ClienteHTTP/app/Http/Controllers/CursoEstudiantesController.php",
+		"/Users/ferranespel/Sites/ClienteHTTP/resources/views/curso-estudiantes/seleccionar-curso.blade.php",
+		"/Users/ferranespel/Sites/ClienteHTTP/app/Exceptions/Handler.php",
+		"/Users/ferranespel/Sites/ClienteHTTP/resources/views/layouts/master.blade.php",
+		"/Users/ferranespel/Sites/ClienteHTTP/resources/views/componentes/errores.blade.php",
+		"/Users/ferranespel/Sites/ClienteHTTP/app/Http/routes.php",
+		"/Users/ferranespel/Sites/ClienteHTTP/app/Http/Controllers/ClienteController.php",
+		"/Users/ferranespel/Sites/ClienteHTTP/resources/views/principal.blade.php",
+		"/Users/ferranespel/Sites/ClienteHTTP/app/Http/Controllers/EstudiantesController.php",
+		"/Users/ferranespel/Sites/ClienteHTTP/resources/views/curso-estudiantes/mostrar.blade.php",
+		"/Users/ferranespel/Sites/ClienteHTTP/app/Http/Controllers/CursosController.php",
+		"/Users/ferranespel/Sites/ClienteHTTP/app/Http/Controllers/ProfesoresController.php",
+		"/Users/ferranespel/Sites/ClienteHTTP/resources/views/profesor-cursos/cursos.blade.php",
+		"/Users/ferranespel/Sites/ClienteHTTP/resources/views/profesor-cursos/agregar.blade.php",
+		"/Users/ferranespel/Sites/ClienteHTTP/resources/views/profesores/todos.blade.php",
+		"/Users/ferranespel/Sites/ClienteHTTP/resources/views/estudiantes/editar.blade.php"
+	],
+	"find":
+	{
+		"height": 44.0
+	},
+	"find_in_files":
+	{
+		"height": 167.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\t\t\t\t\t\t<",
+			"            \n",
+			"input",
+			"image",
+			"    \t\t\n",
+			"}",
+			".panel-default > .panel-heading",
+			";\n",
+			"8",
+			"8col",
+			"\">",
+			" $",
+			"segundos",
+			"3",
+			"ul",
+			"li",
+			"paginate",
+			"error",
+			"title",
+			"h1",
+			"container",
+			"\t\t<",
+			");\n",
+			"timestamp",
+			"20"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "/Users/ferranespel/Sites/curso-laravel/videos-laravel"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/Http/Controllers/UserController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 603,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								421,
+								421
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": -1,
+								"modified": true,
+								"selection": true,
+								"status": -1,
+								"syntax": "php"
+							},
+							"auto_complete": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "resources/views/video/videosList.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4054,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1179,
+								1179
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": -1,
+								"modified": true,
+								"selection": true,
+								"status": -1,
+								"syntax": "php"
+							},
+							"auto_complete": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "resources/views/video/detail.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 872,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								681,
+								629
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": -1,
+								"modified": true,
+								"selection": true,
+								"status": -1,
+								"syntax": "php"
+							},
+							"auto_complete": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "resources/views/user/channel.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 302,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								170,
+								170
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": -1,
+								"modified": true,
+								"selection": true,
+								"status": -1,
+								"syntax": "php"
+							},
+							"auto_complete": false,
+							"open_with_edit": true,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "routes/web.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2154,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2055,
+								2055
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": -1,
+								"modified": true,
+								"selection": true,
+								"status": -1,
+								"syntax": "php"
+							},
+							"auto_complete": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 946.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 44.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 102.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"illuminate/foundation/exceptions/handler",
+				"vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php"
+			],
+			[
+				"",
+				"BAETIEFNABULLAN - Audit"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 618.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
